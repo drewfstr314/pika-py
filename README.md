@@ -5,3 +5,4 @@
 The project is written in Python (hence the "-py" part of the name) and is very much still in development.
 
 2017-05-08 :: v 0.0.0 :: Started project
+           :: v 0.0.1 :: Added typechart.py
